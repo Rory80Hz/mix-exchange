@@ -1,0 +1,136 @@
+<body id="<?=$body ?>">
+
+<?=$nav ?>
+
+<div class="pagination clearfix">
+	<a rel="tab" href="/touchysubject-x-hsik" class="btn next"><div class="icon-arrow-right"></div><span>Touchy Subject-x-H-SIK</span></a>
+</div>
+
+<div class="feature clearfix">
+
+	<div id="meta-title" style="display:none;">Moresounds-X-Dannyscrilla</div>
+	
+	<div class="vs"> <img src="/img/mx-symbol.png " alt="logo" /> </div>
+	
+	<img id="meta-img" class="bg" src="/img/moresoundsXdannyscrilla.jpg" alt="moresoundsXdannyscrilla" />
+	
+	<a class="sc-player stream" href="https://soundcloud.com/rudimentaryrecords/belfast-calling-moresounds"></a> 
+
+</div>
+
+<div class="row">
+	
+	<div class="content clearfix">
+			
+		<div class="col-80 l clearfix">
+			<div class="col-30 l">
+				<h5 class="bg">Tracklist:</h5>
+				<ul class="tracklist dash">
+					<li>Moresounds</li>
+					<li>Moresounds - Day N Days</li>
+					<li>Moresounds - Cannabis</li>
+					<li>Moresounds - Sound Bizness</li>
+					<li>Moresounds - Riddim Again</li>
+					<li>H-SIK - Co-Energy (Moresounds Shtraked)</li>
+					<li>Moresounds - TEK LIFE (Ghetto Dub)</li>
+					<li>Moresounds - No Boda Dis</li>
+					<li>Moresounds - Flash Bodega</li>
+					<li>Moresounds - Bad Sound</li>
+					<li>Machinedrum – Don’t 1 2 Lose U (Moresounds Remix)</li>
+					<li>Pawn - Your Words (Moresounds Remix)</li>
+					<li>Om Unit x Moresounds - Nuff Music</li>
+					<li>Om Unit vs. Kromestar - Merkabah (Moresounds Dub)</li> 
+				</ul>
+				<ul class="tracklist">
+					<li>Danny Scrilla</li>
+					<li>Danny Scrilla - Lone Ranger</li>
+					<li>Danny Scrilla - Jello</li>
+					<li>Danny Scrilla -Singularity</li>
+					<li>TMSV & Danny Scrilla - Tread Lightly</li>
+					<li>Danny Scrilla - X (VIP)</li>
+					<li>Danny Scrilla & Om Unit - Untitled</li>
+					<li>Danny Scrilla - Maroon</li>
+					<li>LV & Joshua Idehen - Tough (Danny Scrilla Remix)</li>
+					<li>Danny Scrilla - Helium</li>
+					<li>Danny Scrilla - Rigel 7</li>
+				</ul>
+			</div>
+		
+			<div class="col-70 r">
+				<h3>In the first of a series of musical exchanges, we encouraged Danny Scrilla (Cosmic Bridge & Civil Music) and Moresounds (Astrophonic & Cosmic Bridge) to lock horns in a mix of two halves. Both artists showcasing, their talents as producers and their love for Dub music. As part of the exchange both Danny and Germain where tasked with asking each other the interview questions that follow. This concept should give us some insight and context to the mix they provided.</h3>
+				
+				<ul class="answers">
+				
+					<li>
+						<p><b>Danny Scrilla:</b> <span class="question">You use a lot of analogue equipment when producing as well as on stage. What is your favourite gadget and which one gets the most use?</span></p>
+						<p><b>Moresounds:</b> I love working with Analog stuff, although i use Digital too. It's very enjoyable to play with hardware, like synths or Dubbing with Fx on a mixing desk. I have Delay Units, Tape Delays, pedals Delay, BBD delay. Delay is sure a magic effect and is the main ingredient of Dub. This is has to be my favourite toy and heavily used in my live sets.</p>
+					</li>
+					
+					<li>
+						<p><b>Danny Scrilla:</b> <span class="question">Reggae, Dub and Dancehall are obvious influences in your music. If you had the chance to collaborate with any artist of these genres (dead or alive) who would it be? </span></p>
+						<p><b>Moresounds:</b> Dub music brought so much to contemporary music, i think. I would have loved to have meet King Tubby, not even to collaborate but just to watch and learn from the Master. So now I just dream of working with the Scientist.</p>
+					</li>
+					
+					<li>
+						<p><b>Danny Scrilla:</b> <span class="question">Could you imagine upgrading your live set with let's say an MC, a singer or even a live band?</span></p>
+						<p><b>Moresounds:</b> I think about it sometimes, I can imagine working with an MC, that could be very cool. I had experiences already when I was more emersed in hip hop. The hard part is to find a singer with whom your on the same page as. A good example of this is the collab between Sam Binga and Redders.</p>
+					</li>
+					
+					<li>
+						<p><b>Danny Scrilla:</b> <span class="question">Do you find yourself playing a different kind of set when you're playing at home compared to when you play abroad and if so, what is the difference? </span></p>
+						<p><b>Moresounds:</b> My live set mutates everytime a play, always some new arrangement shaped by new inspiration. I wouldn’t say  I play different music for French people or abroad, It's always nice to play a live set and see the different crowd reactions where ever I happen to be.</p>
+					</li>
+					
+					<li class="dash">
+						<p><b>Danny Scrilla:</b> <span class="question">If you had to eat one dish for the rest of your life what would it be?</span></p>
+						<p><b>Moresounds:</b> Tortellini, everyday...  #2000</p>
+					</li>
+					
+				</ul>
+			
+			</div>
+		</div>
+		
+		<div class="col-80 r clearfix">
+			<div class="col-70 l">
+				
+				<ul class="answers">
+				
+					<li>
+						<p><b>Moresounds:</b> <span class="question">I know that you come from reggae sound sytem environement... what declic brings you to more electronic scene?</span></p>
+						<p><b>Danny Scrilla:</b> The first purely electronic genre I got into was probably grime. That was roughly 7-8 years ago and I've been listening to/producing electronic ever since.</p>
+					</li>
+					
+					<li>
+						<p><b>Moresounds:</b> <span class="question">Do you play any "physical" Instruments? If not... which one would you choose to play?</span></p>
+						<p><b>Danny Scrilla:</b>  Yeah I play a bit of guitar and piano but it's almost not worth mentioning. I'd love to improve my piano skills though!</p>
+					</li>
+					
+					<li>
+						<p><b>Moresounds:</b> <span class="question">I know that you are also very influenced by reggae/dub music, but there is also a cosmic synth vibe to your tunes, what kind of music/artists influence you?</span></p>
+						<p><b>Danny Scrilla:</b> Anything really. But I guess you could say that most of my music is influenced by dubstep and hip hop which, again, draw influences from reggae/dub themselves.</p>
+					</li>
+					
+					<li>
+						<p><b>Moresounds:</b> <span class="question"> Is a Danny Scrilla LIVE expected soon?</span></p>
+						<p><b>Danny Scrilla:</b> No, not anytime soon. I've thought about it a lot but I don't think I could do anything more exciting than pushing a few buttons on Ableton at this stage, so I'll stick to DJing for now.</p>
+					</li>
+					
+					<li>
+						<p><b>Moresounds:</b> <span class="question"> If you had to keep a beard style for the rest of your life what would it be?</span></p>
+						<p><b>Danny Scrilla:</b> Hah! Probably the one I currently have, even though a long bushy beard with a built in mini bar somehow seems like a good idea.</p>
+					</li>
+					
+				</ul>
+				
+			</div>
+		
+			<div class="col-30 r">
+				<img src="/img/moresounds-sleeve.jpg" alt="moresounds" />
+				<div class="credit">Moresounds’ Blood Ep on Astrophonic</div>
+			</div>
+		</div>
+		
+	</div>
+	
+</div>

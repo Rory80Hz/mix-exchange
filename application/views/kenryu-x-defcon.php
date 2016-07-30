@@ -1,0 +1,216 @@
+<body id="<?=$body ?>">
+
+<?=$nav ?>
+
+<div class="pagination clearfix">
+	<a rel="tab" href="/lakker-x-rorystjohn" class="btn prev"><div class="icon-arrow-left"></div><span>Lakker X Rory St. John</span></a>
+</div>
+
+<div class="feature clearfix">
+
+	<div id="meta-title" style="display:none;">Ken & Ryu X Defcon</div>
+
+	<div class="vs"> <img src="/img/mx-symbol.png " alt="logo" /> </div>
+
+	<img id="meta-img" class="bg" src="/img/kenryuXdefcon.jpg" alt="Ken & Ryu X Defcon" />
+
+	<a class="sc-player stream" href="https://soundcloud.com/rudimentaryrecords/mix-exchange-007-ken-ryu-defcon/s-takK0"></a>
+
+</div>
+
+<div class="row">
+
+	<div class="content clearfix">
+
+		<div class="col-80 l clearfix">
+			<div class="col-30 l">
+				<h5 class="bg">Tracklist:</h5>
+				<ul class="tracklist dash">
+					<li>Ken & Ryu</li>
+					<li>The Host - Subproject 58</li>
+					<li>Dariush Dolat - Shahi Zahab</li>
+					<li>Tangerine Dream - Phaedra</li>
+					<li>Voodoo Drummers of Port Du Prince - Congo</li>
+					<li>Haliu Mergia And The Walias - Musicawi Silt</li>
+					<li>T.Dyson and Company - Its All Over</li>
+					<li>Zbigniew Namyslowski - Jasmine Flavoured</li>
+					<li>Ndikho Xaba And The natives - Nomusa</li>
+					<li>Francis Bebey - New track</li>
+					<li>Pat Metheny Group - (Cross the) Heartland</li>
+					<li>Jeff Phelps - Excerpts from Autumn</li>
+				</ul>
+				<ul class="tracklist">
+					<li>Defcon</li>
+					<li>Airto - Virgin Land Intro / Bro Gives Me Generic DJ Abuse</li>
+					<li>Dabrye - D-Town Tabernacle </li>
+					<li>Errol Brown - Reigning Queen </li>
+					<li>Beat Konducta - Chops N'Thangs / </li>
+					<li>Boxcutter - Vatic Dreams (Defcon remix)</li>
+					<li>Ras G - Walk With Me (ft. Khaill Sadiq)</li>
+					<li>Busta Rhymes - Everything Remains Raw</li>
+					<li>Arca - Wound</li>
+					<li>Knxwledge - Flowerbomb</li>
+					<li>Jeremy Harding - Playground Riddim (Fucked With) / Sasquatch Hunters</li>
+					<li>Madvillain - Figaro (Stones Throw 101 Remix)</li>
+					<li>Mtume - Play It For The People</li>
+					<li>Willie Hutch - I Choose You</li>
+				</ul>
+
+				<img src="/img/Ken&Ryu-Album.png" alt="Ken&Ryu-Album" />
+			</div>
+
+			<div class="col-70 r">
+				
+				<h3 id="meta-desc">Belfast is a happy breeding ground for madness and chaos. We celebrate our failures while ensuring our renowned keep their feet firmly on the ground. If Belfast didn’t laugh we would all drown in tears. So its no surprise these two tune monkeys have taken their exchange with a pinch of salt.</h3>
+
+				<h3>Do not let their inane ramblings fool you, this pair have some serious musical chops. Defcon didn’t get into the musical illuminati without breaking some hard funk/jazz/bass eggs. Both these loons have excellent musical skills and together along with Kab Driver have started Belfast’s first super group. Their jam sessions are legendary, sometimes lasting weeks at a time, and one day they will do a gig to some public humans.</h3>
+
+				<h3>Aside from stretching their jazz brains to the max, they also boast releases & remix work for Boxcutter’s Kinnego Records, Reset Industries, Planet Mu and Rudimentary Records. On this exchange they deliver up a classic mixtape style adventure with a few slices of Jazz, Funk, hip hop and a snippet form one of those secret recording sessions. </h3>
+
+				<ul class="answers">
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Alright m8?? </span></p>
+						<p><b>Ken & Ryu:</b> Well.</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Right, I'll make with the questions. Serious business - Frost vs. Nixon.</span></p>
+						<p><b>Ken & Ryu:</b> That makes me Nixon? Class...</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Do your parents rate your tunes??</span></p>
+						<p><b>Ken & Ryu:</b> My mum doesn't even know I make music apart from the bands I'm in, and if it doesn't involve blues rock or Jazz fusion me Da doesn't want to know! He thinks electronic music is jumped-up ringtones. I might try spoofing him that I've sampled Stevie Wonder on some trax, might get more love.</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> My Mum says all my tunes are next-level. On balance, I would say she's bang right.</span></p>
+						<p><b>Ken & Ryu:</b> Nah, definitely not! She just doesn't wanna vex her little soldier.</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Let's leave the Mother chat there, shall we??  Gonna make a quick admission at this point - I don't have any real questions, per se... So... Speak me some words about pop music. </span></p>
+						<p><b>Ken & Ryu:</b> I'm really interested in the bizarre tryst between pop music/culture and 'underground' sounds (regardless of genre), especially when as 'underground' people we're almost obliged to rail against the pop world for its lack of integrity and innovation. Granted, the vast majority of Radio 1 pop is dire, vapid dross, but a well-constructed pop number is a wonder to behold and all of it has its roots in a previously 'underground' sound. I also like reading into the potential conspiratorial nature of proliferating base themes and culture to maintain a servile proletariat. Check Katy Perry's Dark Horse tune and vid for some heavy Illuminati references.</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> I’m in the illuminati. Believe me, there’s nothing untoward going on - all we do is drink, play poker and like each others tunes on soundcloud... But enough monkeying around! Time for some serious questions.</span></p>
+
+						<p><span class="question">Picture the Scene - the original Ken & Ryu from Street Fighter give up martial arts to pursue their lifelong dream of becoming globe-trotting producer bros. What sort of music do they make? And is it any good??</span></p>
+						<p><b>Ken & Ryu:</b> It would be amazing mate! A sound somewhere between Teddy 	Riley and Tangerine dream. A blissful milieu of cosmic space 		travel soundtrack jamz...</p>
+					</li>
+
+					<li class="quote">“My Mum says all my tunes are next-level”.</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Sorry, but I couldn’t disagree more - these are two men who spend their free time down at the docks kicking the shit out of cars for fun - they don't want want to hear a load of old wishy-washy, synthy hogwash! I reckon they'd make the kind of chart-worrying hi-NRG dance muzak you hear in gyms, with loads of auto-tuned pop diva vox and stadium-sized EDM riffs thrown on. Ryu does everything, Ken mostly just stands behind the mixer with his arms in the air waiting for the drop so he can take his shirt off.</span></p>
+						<p><b>Ken & Ryu:</b> Ken is a thug through and through, fair enough - but such macho 'sports bro' vibes are well channeled into swingin' riddims. Ryu is a renaissance man, with a bag full of synth chops. A perfect combo!</p>
+					</li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<h1>Quick-fire Round</h1>
+
+	<div class="content clearfix">
+
+		<div class="col-80 r clearfix">
+			<div class="col-70 l">
+				<ul class="answers">
+
+					<li>
+						<p><span class="question">Jacko or Prince?</span></p>
+						<p><b>Defcon:</b> Jacko, no contest</p>
+						<p><b>Ken & Ryu:</b> Jacko</p>
+					</li>
+
+					<li>
+						<p><span class="question">Davis or Coltrane?</span></p>
+						<p><b>Defcon:</b> Davis</p>
+						<p><b>Ken & Ryu:</b> ‘Trane</p>
+					</li>
+
+					<li>
+						<p><span class="question">Star Trek or Star Wars?</span></p>
+						<p><b>Defcon:</b> Wars</p>
+						<p><b>Ken & Ryu:</b> Trek</p>
+					</li>
+
+					<li>
+						<p><span class="question">Beatles or The Stones?</span></p>
+						<p><b>Defcon:</b> Beatles. Although, I have a lot of time for the Stones. Their longevity should be applauded, they’ve seen off pretty much everybody... Have to respect staying power!</p>
+						<p><b>Ken & Ryu:</b> Beatles... always</p>
+					</li>
+
+					<li>
+						<p><span class="question">Sega or Nintendo?</span></p>
+						<p><b>Defcon:</b> Even if 'Duck Hunt' had been the only game they'd ever released I would still say Nintendo. Sega was all style-over-substance.</p>
+						<p><b>Ken & Ryu:</b> Nintendo, you philistine!</p>
+					</li>
+
+					<li>
+						<p><span class="question">Cats or Dogs?</span></p>
+						<p><b>Defcon:</b> Dogs. Most dogs are sounder than the average human. Then again they have virtually the easiest life of any animal on the planet, so it’s hardly surprising...</p>
+						<p><b>Ken & Ryu:</b> Dogs - all day and night. You don't get 'guide cats' do ya? Pricks!</p>
+					</li>
+
+					<li>
+						<p><span class="question">Night or Day?</span></p>
+						<p><b>Defcon:</b> Night. Given the opportunity I’m a hardcore, nocturnal badger-man par excellence. 12-4am are often my peak hours for productivity. It’s quiet, there’s nothing else to do and there’s feck all in the way of interruptions. Very conducive to creativity.</p>
+						<p><b>Ken & Ryu:</b> Day, specifically early morn'. I don't like the uneventful hinterland that is the afternoon.</p>
+					</li>
+
+				</ul>
+
+				<h1>---</h1>
+			</div>
+		</div>
+	</div>
+
+
+
+	<img class="full" src="/img/ken.jpg" alt="ken" />
+
+	<div class="content clearfix">
+
+		<div class="col-80 r clearfix">
+			<div class="col-70 l">
+
+				<ul class="answers">
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> A hypothetical question, to finish – You next EP bombs, badly. You are arrested by the dance music police and tried by a kangaroo court of your ‘DJ bro’ peers. You are sentenced to death for crimes against the Zeitgesist. What is your last meal and what song do you listen to while consuming it?</span></p>
+						<p><b>Ken & Ryu:</b> Hmmmmmm, good question. Firstly, I have nothing but contempt for this court and I want that noted for the records. My last meal will be a egg and mushroom filled soda from the Ballynure petrol station, best sodas in the world! I'll choose to have my final tune played during the execution, which will be Van Halen - Jump, and it will be death by firing squad; head up, chest out, fuck yez all!</p>
+					</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> Haha! Ballynure is about 5 minutes from where I grew up. BT39 'til death!</span></p>
+
+						<p><span class="question"> I’m not sure I’d feel like a full meal before the big kiss-off.. So maybe just loads of really fresh fruit - cherries, grapes, melon and strawberries. And some really bitchin’ chocolate. And fuckloads of red wine. I reckon I’d go out to ‘Moonship Journey’ by Sun Ra, cos it’s genuinely quite difficult to fell too discouraged about anything while that’s playing. Plus I could fantasise about a pleasant cosmic voyage awaiting me in The Great Beyond - I’d be whistling all the way to the scaffold! I reckon I’d shout “FRREEEDDDOOOOMMMM!!!” in a Scottish accent just as the trapdoor opened as well. </span></p>
+
+						<p><b>Ken & Ryu:</b> Good answer, Sun Ra is an apt send off for anyone. </p>
+					</li>
+
+					<li class="quote">“My last meal will be a egg and mushroom filled soda from the Ballynure petrol station, best sodas in the world!”</li>
+
+					<li>
+						<p><b>Defcon:</b> <span class="question"> On that cheery note, I think we best leave it there. I reckon we’ve all the big stuff covered, anyway. Cheers bruv!</span></p>
+						<p><b>Ken & Ryu:</b> Happy days mate, its been a much-needed cathartic and edifying experience.</p>
+					</li>
+
+				</ul>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
